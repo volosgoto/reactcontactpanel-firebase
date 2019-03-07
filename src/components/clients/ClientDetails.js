@@ -7,7 +7,6 @@ import classnames from "classnames";
 
 import PropTypes from "prop-types";
 import Spinner from "../layout/Spinner";
-import { format } from "path";
 
 class ClientDetails extends Component {
   state = {
